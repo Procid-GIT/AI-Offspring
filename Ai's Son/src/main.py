@@ -9,7 +9,7 @@ def main():
     
     # Load a pre-trained conversational AI model
     # Upgraded to medium model for better responses
-    chatbot = pipeline("text-generation", model="microsoft/DialoGPT-medium", device=device)
+    chatbot = pipeline("text-generation", model="microsoft/DialoGPT-small", device=device)
     
     print("AI Chatbot ready! Type 'quit' to exit.")
     print("You can ask me to generate code by saying 'Generate code for [task]'")
