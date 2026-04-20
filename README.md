@@ -3,5 +3,5 @@ An AI written by an AI, the AI that wrote the AI was Github Copilot in VS code, 
 
 The readme in the other folder is 100% AI generated, this one is human, at least.  
 
-Also, I never run this myself, I have trouble doing so as my pc is a potato.
+Also, I never ran this myself, I have trouble doing so as my pc is a potato.
 Its literally a Dell Latitude E7270
